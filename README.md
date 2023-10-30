@@ -25,6 +25,8 @@ Linux and macOS:
 sudo git clone https://github.com/Mahrous-Gamal/Tasty.git
 ```
 
+Windows:
+
 ```bash
 git clone https://github.com/Mahrous-Gamal/Tasty.git
 ```
